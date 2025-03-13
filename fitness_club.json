@@ -1,0 +1,38 @@
+{
+  "name": "Powerhouse Fitness",
+  "members": [
+    {
+      "__class__": "Athlete",
+      "gender": "Мужчина",
+      "age": 25,
+      "sport_type": "Бокс"
+    },
+    {
+      "__class__": "Senior",
+      "gender": "Женщина",
+      "age": 68,
+      "chronic_diseases": [
+        "Гипертония"
+      ]
+    },
+    {
+      "__class__": "Teenager",
+      "gender": "Мужчина",
+      "age": 15,
+      "school_grade": 9
+    },
+    {
+      "__class__": "Teenager",
+      "gender": "Мужчина",
+      "age": 15,
+      "school_grade": 9
+    }
+  ],
+  "trainers": [
+    {
+      "__class__": "GroupTraining",
+      "trainer_name": "Елена",
+      "max_participants": 15
+    }
+  ]
+}
